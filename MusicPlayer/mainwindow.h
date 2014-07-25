@@ -18,6 +18,7 @@ public:
 private:
     Ui::MainWindow *ui;
     QPushButton *playButton;
+    QPushButton *pauseButton;
 };
 
 #endif // MAINWINDOW_H
